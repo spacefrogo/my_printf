@@ -1,6 +1,6 @@
 ### my_printf
 
-You must recode the printf function from the C library according to the C99 standard. Your function should
+Printf function from the C library according to the C99 standard. Your function should
 be prototyped like the printf function.
 
 You do not have to implement the C library printf buffer handling.
